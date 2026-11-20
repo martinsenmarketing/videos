@@ -1,0 +1,10 @@
+ref=ref_capcut_bf1.wav exag=0.55 cfg=0.5 modo=frases tomas=2
+¿Por qué tu competencia sale en Google Maps y tu negocio no?
+Google lo explica en su propia ayuda: decide por tres cosas. Relevancia, distancia y prominencia.
+La distancia no la puedes cambiar. Las otras dos, sí. Y la segunda casi nadie la trabaja.
+Uno: la relevancia. Tu ficha tiene que decir exactamente lo que haces. Categoría principal, servicios, y una descripción con las palabras que busca tu cliente.
+Mándaselo a alguien que tenga un negocio local. Y espera, que la segunda es la que más mueve.
+Dos: la prominencia. Cuántas reseñas tienes y qué nota. Google dice que más reseñas y mejores notas pueden subir tu posición.
+Pide una reseña a cada cliente contento. Y responde a todas, también a las malas.
+Y tres: mantén tu ficha al día. Horarios, fotos y publicaciones. Una ficha que se actualiza parece un negocio vivo.
+Sígueme si tienes un negocio y quieres que te encuentren. Cada noche, un truco que puedes aplicar mañana.
