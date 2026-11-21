@@ -1,0 +1,13 @@
+ref=ref_capcut_bf1.wav exag=0.55 cfg=0.5 modo=frases tomas=2
+¿Cuánto tarda en abrir la web de tu negocio en el móvil?
+Si son más de tres segundos, estás perdiendo clientes.
+Te digo cuántos, y cómo arreglarlo hoy.
+Según Google, más de la mitad de las visitas desde el móvil se van si la página tarda más de tres segundos en cargar.
+El cincuenta y tres por ciento. Sin ver ni tus precios.
+Envíaselo a alguien que tenga web y pague anuncios. Porque hay algo peor.
+Pasar de uno a tres segundos sube un treinta y dos por ciento la probabilidad de que se vayan sin tocar nada.
+Y si pagas anuncios, también pagas por cada uno que se va.
+Lo bueno: casi siempre es por lo mismo.
+Fotos subidas tal cual salen del móvil. Comprímelas antes de subirlas.
+Y mide tu web gratis con la herramienta de Google: Peich Spid.
+Comenta WEB y te digo qué frena la tuya.
