@@ -25,6 +25,22 @@ Se actualiza cada lunes con datos de Windsor. Antes de escribir cada guion, leer
 
 5. BF1 (gráficas de retención, 20 nov): IG cae al 50 % en ~5 s y al ~30 % en ~10 s, luego plano hasta el segundo 50. TikTok: la mayoría se va en el segundo 1, media 5,7 s, 1,5 % lo ve entero. Quien pasa del segundo 10 se queda: el problema es el arranque, no la duración. El fotograma 0 (etiqueta de precio sin texto) parecía un anuncio.
 
+
+## Revisión diaria 21 nov (reels del 20 nov, a ~24 h)
+
+| Hora | Vídeo | Duración | Vistas | Salto 3 s | Media vista | Guardados | Compartidos |
+|---|---|---|---|---|---|---|---|
+| 15:30 | Leche al fondo | 50 s | 336 | 38 % | 11,4 s (23 %) | 0 | 2 |
+| 19:30 | BF 2/4 cuenta atrás | 60 s | 151 | 43 % | 12,9 s (22 %) | 0 | 0 |
+| 21:30 | Google Maps 3 cosas | 57 s | 155 | 48 % | 12,1 s (21 %) | 0 | 0 |
+(BF 1/4 a ~48 h: 210 vistas, salto 39 %, 14,7 s.)
+
+Qué dicen:
+1. La media vista se queda en 11-15 s sea cual sea la duración: los vídeos de 50-60 s se ven al ~22 %. Estamos lejos del objetivo (>50 %) y de la regla de 35-40 s. → Guiones de 10-12 frases cortas, máx. ~40 s, y el dato fuerte antes del segundo 10.
+2. La franja de las 15:30 (alcance) dobla en vistas a las de 19:30 y 21:30, y salta menos gente. La de negocios es la que más se salta (48 %): el gancho de negocios debe empezar por una situación que vea cualquiera (el móvil, la web que no carga), no por "tu negocio".
+3. Compartidos: solo la leche (2), el único con CTA de enviar muy concreto ("a quien entra a por una cosa y sale con diez"). Mantener CTA con persona reconocible.
+4. Aplicado hoy (21 nov): señuelo y web con gancho de pregunta + número real gigante en fotograma 0 (84 % / 53 %), 12-13 frases. BF3 ya tenía voz (51 s): se mantiene.
+
 ## Referencia: teologiadibujada (20 nov)
 
 105k seguidores con 26 publicaciones. 20 reels: de 45k a 1M de visualizaciones. Likes ~9-10 % de las vistas; envíos ~3 % (1M → 29k envíos; 636k → 17,7k). Nosotros: ~0,1 %.

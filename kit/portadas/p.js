@@ -14,6 +14,21 @@ function covBF(){bgc(RED);label('BLACK FRIDAY POR DENTRO · 2/4',380,'#fff',RED)
 function covMaps(){bgc(BLUE);label('PARA NEGOCIOS',380,'#fff',BLUE);big('¿NO SALES',540,560,190,'#fff');big('EN MAPS?',540,760,210,YEL,{stroke:INK});
   ctx.save();ctx.translate(680,1180);ctx.rotate(0.05);ctx.shadowColor='rgba(0,0,0,.3)';ctx.shadowBlur=40;ctx.shadowOffsetY=20;ctx.fillStyle='#E9F0E4';rr(-300,-230,600,460,40);ctx.fill();ctx.shadowColor='transparent';ctx.save();rr(-300,-230,600,460,40);ctx.clip();ctx.strokeStyle='#fff';ctx.lineWidth=34;[[-300,-60,300,10],[-90,-230,-40,230],[110,-230,170,230]].forEach(l=>{ctx.beginPath();ctx.moveTo(l[0],l[1]);ctx.lineTo(l[2],l[3]);ctx.stroke();});ctx.restore();
   pin(-20,-40,200,RED);ctx.globalAlpha=0.55;pin(190,140,90,'#8C8A84');ctx.restore();face(200,1340,0.8);}
+
+function covBF3(){bgc(RED);label('BLACK FRIDAY POR DENTRO · 3/4',380,'#fff',RED);big('¿POR QUÉ',540,540,150,'#fff');big('«HASTA»?',540,740,240,YEL,{stroke:INK});
+  ctx.save();ctx.translate(660,1170);ctx.rotate(-0.05);ctx.shadowColor='rgba(0,0,0,.3)';ctx.shadowBlur=40;ctx.shadowOffsetY=20;ctx.fillStyle='#fff';rr(-300,-230,600,460,40);ctx.fill();ctx.shadowColor='transparent';
+  ctx.fillStyle='#111';rr(-260,-190,520,380,24);ctx.fill();ctx.textAlign='center';ctx.textBaseline='middle';ctx.font='900 50px IN';ctx.fillStyle='#fff';ctx.fillText('HASTA',0,-110);ctx.font='900 170px IN';ctx.fillStyle=RED;ctx.fillText('-56%',0,30);ctx.font='700 26px MO';ctx.fillStyle='#888';ctx.fillText('*en modelos seleccionados',0,140);ctx.restore();
+  ctx.save();ctx.strokeStyle=YEL;ctx.lineWidth=26;ctx.lineCap='round';ctx.beginPath();ctx.arc(560,1060,120,0,7);ctx.stroke();ctx.beginPath();ctx.moveTo(645,1145);ctx.lineTo(740,1240);ctx.stroke();ctx.restore();face(200,1340,0.8);}
+function covSenuelo(){bgc(YEL);label('TRUCOS DE PRECIO',380,INK,YEL);big('LA OPCIÓN',540,560,170,INK);big('TRAMPA',540,760,230,RED,{stroke:INK});
+  const P=[['S','3 €',0],['M','6,50 €',1],['L','7 €',0]];P.forEach(([z,p,d],i)=>{const x=380+i*230,y=1170,h=200+i*70;ctx.save();ctx.translate(x,y);ctx.shadowColor='rgba(0,0,0,.25)';ctx.shadowBlur=30;ctx.shadowOffsetY=14;ctx.fillStyle='#fff';ctx.beginPath();ctx.moveTo(-70-i*8,-h/2);ctx.lineTo(70+i*8,-h/2);ctx.lineTo(55,h/2);ctx.lineTo(-55,h/2);ctx.closePath();ctx.fill();ctx.shadowColor='transparent';ctx.strokeStyle=INK;ctx.lineWidth=8;ctx.stroke();
+    ctx.fillStyle=d?'#999':RED;ctx.font='900 70px IN';ctx.textAlign='center';ctx.textBaseline='middle';ctx.fillText(z,0,-10);ctx.restore();});
+  ctx.save();ctx.translate(610,1010);ctx.rotate(-0.1);ctx.fillStyle=INK;rr(-140,-44,280,88,18);ctx.fill();ctx.fillStyle=YEL;ctx.font='900 46px IN';ctx.textAlign='center';ctx.textBaseline='middle';ctx.fillText('SEÑUELO',0,4);ctx.restore();face(200,1360,0.8);}
+function covWeb(){bgc(BLUE);label('PARA NEGOCIOS',380,'#fff',BLUE);big('3 SEGUNDOS',540,560,170,'#fff');big('Y SE VAN',540,760,210,YEL,{stroke:INK});
+  ctx.save();ctx.translate(690,1180);ctx.rotate(0.06);ctx.shadowColor='rgba(0,0,0,.3)';ctx.shadowBlur=40;ctx.shadowOffsetY=20;ctx.fillStyle='#1B1B22';rr(-180,-300,360,600,50);ctx.fill();ctx.shadowColor='transparent';ctx.fillStyle='#fff';rr(-158,-275,316,550,34);ctx.fill();
+  ctx.strokeStyle='#E3DFD6';ctx.lineWidth=22;ctx.beginPath();ctx.arc(0,-20,80,0,7);ctx.stroke();ctx.strokeStyle=RED;ctx.lineCap='round';ctx.beginPath();ctx.arc(0,-20,80,-1.57,1.2);ctx.stroke();
+  ctx.fillStyle=INK;ctx.font='700 34px MO';ctx.textAlign='center';ctx.textBaseline='middle';ctx.fillText('Cargando…',0,120);ctx.restore();face(200,1340,0.8);}
+window.COV2={bf3:covBF3,senuelo:covSenuelo,web:covWeb};
+
 document.fonts.ready.then(()=>Promise.all(['900 50px IN','700 50px MO'].map(f=>document.fonts.load(f)))).then(()=>{window.READY=true;});
 window.COV={leche:covLeche,bf:covBF,maps:covMaps};
 </script></body></html>
