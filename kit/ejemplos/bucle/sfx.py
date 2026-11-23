@@ -1,0 +1,20 @@
+import sys; sys.argv=[sys.argv[0],sys.argv[1]]
+exec(open('sfx_ev.py').read()); exec(open('/home/claude/musica.py').read())
+cambias=WT('si');igual=WT('igual');miras=WT('miras');ningun=WT('ningun');donde=WT('donde');casi=WT('casi');fuerza=WT('fuerza');pero=WT('pero');compras=WT('compras');como=WT('como',compras);pagas=WT('pagas',como)
+midieron=WT('midieron');tenv=WT('envias');mit=WT('en',tenv+2);sub=WT('subastaron');quien=WT('quien',sub);tarj=WT('tarjeta',quien);mas=WT('mas',tarj);efe=WT('efectivo',mas)
+bill=WT('con',efe);duele=WT('duele');tarj2=WT('con',duele);por=WT('por',WT('suena',tarj2));enc=WT('encender');antes=WT('antes',enc);bil=WT('billetes',antes+1);ytu=WT('y',bil);com=WT('comentarios');end=W[-1]['t1']
+for s in [miras,casi,midieron,mit,bill,por,ytu]: put(whoosh(0.5),s-0.35,db(-15))
+put(impact(True),0.0,db(-11));put(pop(),0.3,db(-15))
+for i in range(5): put(coin(),0.6+i*0.9,db(-22))
+put(sweep(True,0.6),cambias,db(-18)); put(impact(True),igual,db(-9))
+for i in range(6): put(tick(),miras+0.3+i*0.15,db(-17))
+put(pop(),ningun,db(-14)); put(impact(True),donde,db(-9))
+put(clunk(),fuerza,db(-14)); put(pop(),pero+0.3,db(-14)); put(buzz(0.3),compras,db(-14)); put(impact(True),como,db(-8)); put(impact(),pagas,db(-10))
+put(ticker(0.8),midieron,db(-17)); put(whoosh(0.6),tenv+0.2,db(-15)); put(pop(),tenv,db(-13))
+put(clunk(),sub+0.15,db(-12)); put(ticker(0.6),sub+0.6,db(-17)); put(riser(1.0),tarj-0.8,db(-17)); put(impact(True),tarj+0.2,db(-8)); put(impact(),mas,db(-10))
+put(doorbell(),bill+0.3,db(-14)); put(impact(),duele,db(-11)); put(powerdown(0.8),tarj2+0.3,db(-14))
+put(doorbell(),enc,db(-13)); put(pop(),antes,db(-14)); put(pop(),WT('lo',antes+0.5),db(-14)); put(impact(True),bil-0.6,db(-10))
+put(pop(),ytu+0.3,db(-13)); put(pop(),ytu+0.6,db(-13)); put(sparkle(),com,db(-16)); put(whoosh(1.0,False),end+0.1,db(-14))
+mix+=musica([(0,miras,'sorpresa'),(miras,pero,'info'),(pero,midieron+0.5,'sorpresa'),(midieron+0.5,mit,'info'),(mit,por,'sorpresa'),(por,DUR,'resultado')],DUR,SR,-20)[:len(mix)]
+mix=mix[:int(DUR*SR)]; s=(np.clip(mix,-1,1)*32767).astype(np.int16)
+w=wave.open('sfx.wav','wb'); w.setnchannels(1); w.setsampwidth(2); w.setframerate(SR); w.writeframes(s.tobytes()); w.close(); print('sfx ok')
