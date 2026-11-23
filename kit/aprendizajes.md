@@ -66,3 +66,10 @@ Qué dicen:
 
 - Llamada a la acción a mitad de vídeo: BF2 sin, BF3 con. Comparar el lunes.
 - Animado vs cinematográfico (música, 24 nov) vs ingeniería inversa (Mercadona, 26 nov).
+
+## 23 nov 2026 — Diagnóstico y nuevo formato (pilotos)
+- Datos 20 nov: leche 335 visitas, skip 38 %, 11 s de 50; BF2 151, 43 %, 13 s de 60; Maps 155, 48 %, 12 s de 57. Todos se cortan ~s12. Mejor histórico: "Pan y 40 €" 1.393 visitas, skip 33 %, 20 s. La leche repitió el tema del pan: llevar registro de temas usados.
+- Límite de uso: 3 vídeos/día no cabe en el plan; caben ~6-8/semana. Producción diaria PAUSADA hasta validar formato.
+- Referencia @elcuerpomiente: gancho que ataca una creencia del espectador ("Abre más las manos… te lo dicen en la banca") o comparación personal ("Tu colega saca 10. Tú, ni una"); cambio visual cada 2-3 s alternando escena dibujada CON fondo/escenario real (gimnasio, banco) y vista "rayos X" azul oscuro; barras de %, papel del estudio, etiquetas; marca de serie fija arriba ("EL CUERPO MIENTE · Nº 142") + etiqueta de tema + sello final "PILLADO"; datos honestos con "OJO, otros estudios…"; CTA regalo "Comenta RUTINA y te mando mis rutinas (15 págs, 63 fuentes)"; 1 sola voz + base musical.
+- Referencia @teologiadibujada: hooks de pregunta que confrontan la identidad del espectador, plantilla visual fija y reconocible, dibujos que cambian constantemente, citas de autoridad.
+- Nahuel pide 3 pilotos: (1) estilo El Cuerpo Miente, (2) estilo Teología Dibujada, (3) mezcla con todo lo aprendido. Quiere también música instrumental que cambie según la emoción (info/sorpresa/resultado) y, más adelante, probar 3 voces (narrador grave en 3ª persona, protagonista, alguien que pregunta). No copiar nombre ni estética literal; marca de serie propia (propuesta: "TE LA COLARON · Nº 1" con sello final).
