@@ -15,6 +15,6 @@ put(clunk(),sub+0.15,db(-12)); put(ticker(0.6),sub+0.6,db(-17)); put(riser(1.0),
 put(doorbell(),bill+0.3,db(-14)); put(impact(),duele,db(-11)); put(powerdown(0.8),tarj2+0.3,db(-14))
 put(doorbell(),enc,db(-13)); put(pop(),antes,db(-14)); put(pop(),WT('lo',antes+0.5),db(-14)); put(impact(True),bil-0.6,db(-10))
 put(pop(),ytu+0.3,db(-13)); put(pop(),ytu+0.6,db(-13)); put(sparkle(),com,db(-16)); put(whoosh(1.0,False),end+0.1,db(-14))
-mix+=musica([(0,miras,'sorpresa'),(miras,pero,'info'),(pero,midieron+0.5,'sorpresa'),(midieron+0.5,mit,'info'),(mit,por,'sorpresa'),(por,DUR,'resultado')],DUR,SR,-20)[:len(mix)]
+mix+=musica([(0,miras,'sorpresa'),(miras,pero,'info'),(pero,midieron+0.5,'sorpresa'),(midieron+0.5,mit,'info'),(mit,por,'sorpresa'),(por,DUR,'resultado')],DUR,SR,-16)[:len(mix)]
 mix=mix[:int(DUR*SR)]; s=(np.clip(mix,-1,1)*32767).astype(np.int16)
 w=wave.open('sfx.wav','wb'); w.setnchannels(1); w.setsampwidth(2); w.setframerate(SR); w.writeframes(s.tobytes()); w.close(); print('sfx ok')
