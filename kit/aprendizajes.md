@@ -83,3 +83,17 @@ Nahuel lo valora 10/10 (visual, voz, guion y tema). Pendiente de datos a 48 h. D
 - Música: bases sintetizadas por fase (sorpresa/tensión, info, resultado). Nahuel pide SUBIRLA un poco: usar gain -16 dB en musica() (antes -20).
 - No inventar datos en encuestas/gráficas (se quitaron los % de la encuesta final).
 - Incidencias: Windsor perdió el token de Instagram (reconectar); Higgsfield dio 502 al preparar TikTok. Este reel se subió a mano.
+
+## 24 nov 2026 (19:40) — Primeros datos del formato bucle (Windsor, caché)
+| Reel | Visto | Salta | T. medio | Likes | Envíos |
+|---|---|---|---|---|---|
+| Gratis (bucle, 56 s, 24 nov, pocas horas) | 1.293 | **30 %** | **22,5 s** | **54** | 0 |
+| Pan y 40 € (18 nov) | 1.394 | 33 % | 20,3 s | 36 | 2 |
+| Tarjeta (bucle, 48 s, 23 nov) | 556 | 49 % | 10,4 s | 12 | 2 |
+| Señuelo (21 nov) | 538 | 44 % | 11,8 s | 7 | 0 |
+| Leche (20 nov) | 400 | 38 % | 11,9 s | 9 | 2 |
+| Clínica dental (negocios, 24 nov) | 137 | **74 %** | 4,6 s | 2 | 0 |
+Conclusiones:
+- El formato bucle NO basta por sí solo (tarjeta 49 % de salto). Lo que comparten los dos mejores (gratis y pan/40 €): el gancho es una ACCIÓN cotidiana y concreta que el espectador se reconoce haciendo ("metes cosas en el carrito para el envío gratis", "entraste a por pan y saliste con 40 €"). Tarjeta abría con un sentimiento genérico ("llegas a fin de mes…").
+- Regla nueva: gancho = escena concreta y reconocible en primera persona + objeto visible en el fotograma 0.
+- Vídeos para negocios en esta cuenta: la audiencia actual es consumidora; un gancho para dueños de clínica se salta (74 %). Si se hacen, abrir con algo que también enganche al consumidor (p. ej. "¿Por qué casi nunca vuelves a la misma clínica?") o moverlos a un formato/cuenta propia.
