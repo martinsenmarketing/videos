@@ -97,3 +97,18 @@ Conclusiones:
 - El formato bucle NO basta por sí solo (tarjeta 49 % de salto). Lo que comparten los dos mejores (gratis y pan/40 €): el gancho es una ACCIÓN cotidiana y concreta que el espectador se reconoce haciendo ("metes cosas en el carrito para el envío gratis", "entraste a por pan y saliste con 40 €"). Tarjeta abría con un sentimiento genérico ("llegas a fin de mes…").
 - Regla nueva: gancho = escena concreta y reconocible en primera persona + objeto visible en el fotograma 0.
 - Vídeos para negocios en esta cuenta: la audiencia actual es consumidora; un gancho para dueños de clínica se salta (74 %). Si se hacen, abrir con algo que también enganche al consumidor (p. ej. "¿Por qué casi nunca vuelves a la misma clínica?") o moverlos a un formato/cuenta propia.
+
+## 25 nov 2026 (23:20) — Test de ganchos «si lo tocas» + revisión a 48 h
+| Reel | Publicado | Visto | Salta | T. medio | Likes |
+|---|---|---|---|---|---|
+| Toca B «Si lo tocas, lo compras» (frase tajante, 5 palabras) | mié 10:00 | 1.312 | **30 %** | 14,8 s | 21 |
+| Toca C «Entraste solo a mirar… y saliste con ello» (escena) | mié 13:30 (~10 h) | 205 | 35 % | 11,2 s | 3 |
+| Toca A «¿Coges cosas en la tienda solo para mirarlas?…» (pregunta larga) | mar 20:00 | 204 | 41 % | 18,7 s | 3 |
+| ,99 «4,99 € no son 4 €» (formato antiguo) | mié 20:30 (~3 h) | 1.004 | 32 % | 19,0 s | 24 |
+| Gratis (bucle) | 24 nov | 1.300 | 30 % | 22,4 s | 56 |
+| Tarjeta (bucle) a 48 h | 23 nov | 571 | 48 % | 10,6 s | 13 |
+Conclusiones (provisionales, C y ,99 con pocas horas):
+- Gana el gancho CORTO y tajante (B, 5 palabras) sobre la pregunta larga (A, 13 palabras). Los otros dos mejores también son cortos y concretos: «4,99 € no son 4 €», «¿Metes cosas al carrito para el envío gratis?».
+- Regla: gancho ≤ 7 palabras, concreto, que se entienda sin contexto; la explicación va después.
+- El tiempo medio de B (14,8 s) es menor que el de gratis (22,4 s): el cuerpo de «toca» retiene menos que el de gratis → revisar el cuerpo (el estudio sin números engancha menos que «el gratis arrasó»).
+- Los números concretos en el cuerpo (61 $ vs 29 $, 270 %, 63 %) siguen siendo un buen pico; preferir estudios con un dato claro.
